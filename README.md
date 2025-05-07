@@ -1,4 +1,4 @@
-# learning_python
+# learning_python ( github)
 
 #create a function with a single parameter
 def greet(name):
